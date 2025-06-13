@@ -10,4 +10,10 @@ public static void main(String [] args)
 System.out.println("This is the updated code");
 
 }
+
+public void Home()
+{
+	System.out.println("Welcome Home page...");
 }
+}
+
