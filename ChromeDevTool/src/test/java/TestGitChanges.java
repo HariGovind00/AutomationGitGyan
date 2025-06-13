@@ -24,6 +24,11 @@ public void ContactMenu()
 {
 System.out.println("This is the ContactMenu updated code");
 }
+public String aboutUs(String data)
+{
+	System.out.println("Info about the company..");
+	return data;
+}
 
 }
 
