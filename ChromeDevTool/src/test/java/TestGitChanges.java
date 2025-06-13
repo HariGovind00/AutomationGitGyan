@@ -1,15 +1,19 @@
 public class TestGitChanges
 {
-public void loginMenu()
+	
+public void login()
 {
-System.out.println("This is the loginMenu updated code");
+	System.out.println("Welcome Login");
 }
-public void homeMenu()
+public static void main(String [] args)
 {
-System.out.println("This is the homeMenu updated code");
+System.out.println("This is the updated code");
+
 }
-public void ContactMenu()
+
+public void Home()
 {
-System.out.println("This is the ContactMenu updated code");
+	System.out.println("Welcome Home page...");
 }
 }
+
