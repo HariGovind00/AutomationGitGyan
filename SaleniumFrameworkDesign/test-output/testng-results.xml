@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-24T08:20:46 IST" name="Default suite" finished-at="2025-05-24T08:21:04 IST" duration-ms="18119">
+    <groups>
+    </groups>
+    <test started-at="2025-05-24T08:20:46 IST" name="Default test" finished-at="2025-05-24T08:21:04 IST" duration-ms="18119">
+      <class name="HariGovindAcademy.SubmitOrderTestCustomize">
+        <test-method is-config="true" signature="launchapplicationdrivers()[pri:0, instance:HariGovindAcademy.SubmitOrderTestCustomize@37883b97]" started-at="2025-05-24T08:20:46 IST" name="launchapplicationdrivers" finished-at="2025-05-24T08:20:57 IST" duration-ms="10840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplicationdrivers -->
+        <test-method signature="SubmitOrder(java.lang.String,java.lang.String)[pri:0, instance:HariGovindAcademy.SubmitOrderTestCustomize@37883b97]" started-at="2025-05-24T08:20:57 IST" name="SubmitOrder" data-provider="loginUserCred" finished-at="2025-05-24T08:21:04 IST" duration-ms="6750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[govindharik@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[welcome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitOrder -->
+        <test-method is-config="true" signature="tearbrowsertoclose()[pri:0, instance:HariGovindAcademy.SubmitOrderTestCustomize@37883b97]" started-at="2025-05-24T08:21:04 IST" name="tearbrowsertoclose" finished-at="2025-05-24T08:21:04 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearbrowsertoclose -->
+      </class> <!-- HariGovindAcademy.SubmitOrderTestCustomize -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
