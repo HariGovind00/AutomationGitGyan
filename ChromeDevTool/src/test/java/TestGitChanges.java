@@ -11,9 +11,9 @@ System.out.println("This is the updated code");
 
 }
 
-public void Home()
+public void myCarrier()
 {
-	System.out.println("Welcome Home page...");
+	System.out.println("Welcome myCarrier page...");
 }
 
 public void homeMenu()
