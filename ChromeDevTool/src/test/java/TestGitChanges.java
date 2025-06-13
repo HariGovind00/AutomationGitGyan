@@ -1,9 +1,15 @@
 public class TestGitChanges
 {
-public static void main(String [] args)
+public void loginMenu()
 {
-System.out.println("This is the updated code");
-
-
+System.out.println("This is the loginMenu updated code");
+}
+public void homeMenu()
+{
+System.out.println("This is the homeMenu updated code");
+}
+public void ContactMenu()
+{
+System.out.println("This is the ContactMenu updated code");
 }
 }
