@@ -29,6 +29,9 @@ public String aboutUs(String data)
 	System.out.println("Info about the company..");
 	return data;
 }
-
+public void help()
+{
+System.out.println("This is the help menu code");
+}
 }
 
